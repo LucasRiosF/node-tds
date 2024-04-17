@@ -1,5 +1,4 @@
 import db from "../../database/index.js";
-
 export default class UsersRepository {
   constructor() {
     this.db = db;
